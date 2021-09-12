@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am passionate about tech , engineering and data !
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Works remotely from paradise island , indian ocean.
 
 ### Contact me
 
